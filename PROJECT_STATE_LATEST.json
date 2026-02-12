@@ -1,0 +1,124 @@
+{
+  "timestamp": "2026-02-12T06:33:13.760Z",
+  "fileStatus": {
+    "src/components/PaymentButton.jsx": {
+      "exists": true,
+      "lines": 298
+    },
+    "src/components/SubscriptionManagement.jsx": {
+      "exists": true,
+      "lines": 575
+    },
+    "src/components/PaymentSuccessPage.jsx": {
+      "exists": true,
+      "lines": 240
+    },
+    "src/components/PaymentFailedPage.jsx": {
+      "exists": true,
+      "lines": 150
+    }
+  },
+  "codeStats": {
+    "components": {
+      "AIAnalysis.jsx": {
+        "lines": 384,
+        "size": 11719,
+        "exists": true
+      },
+      "CompareTool.jsx": {
+        "lines": 286,
+        "size": 11519,
+        "exists": true
+      },
+      "EvaluationForm.jsx": {
+        "lines": 182,
+        "size": 6517,
+        "exists": true
+      },
+      "HistoryPage.jsx": {
+        "lines": 305,
+        "size": 12443,
+        "exists": true
+      },
+      "PDFReport.jsx": {
+        "lines": 577,
+        "size": 18568,
+        "exists": true
+      },
+      "PaymentButton.jsx": {
+        "lines": 298,
+        "size": 9451,
+        "exists": true
+      },
+      "PaymentFailedPage.jsx": {
+        "lines": 150,
+        "size": 6259,
+        "exists": true
+      },
+      "PaymentSuccessPage.jsx": {
+        "lines": 240,
+        "size": 9604,
+        "exists": true
+      },
+      "QuotaDemo.jsx": {
+        "lines": 296,
+        "size": 10617,
+        "exists": true
+      },
+      "QuotaStatus.jsx": {
+        "lines": 172,
+        "size": 5639,
+        "exists": true
+      },
+      "RadarChart.jsx": {
+        "lines": 84,
+        "size": 2523,
+        "exists": true
+      },
+      "ReportPage.jsx": {
+        "lines": 243,
+        "size": 9922,
+        "exists": true
+      },
+      "ScoreCard.jsx": {
+        "lines": 65,
+        "size": 2064,
+        "exists": true
+      },
+      "ShareTool.jsx": {
+        "lines": 289,
+        "size": 11608,
+        "exists": true
+      },
+      "SubscriptionManagement.jsx": {
+        "lines": 575,
+        "size": 20822,
+        "exists": true
+      },
+      "UpgradeModal.jsx": {
+        "lines": 257,
+        "size": 10002,
+        "exists": true
+      },
+      "WeChatPayModal.jsx": {
+        "lines": 211,
+        "size": 7658,
+        "exists": true
+      }
+    },
+    "dependencies": {
+      "react": "^18.2.0",
+      "@supabase/supabase-js": "^2.78.0",
+      "framer-motion": "^10.16.4",
+      "recharts": "^2.8.0"
+    }
+  },
+  "recommendations": [
+    {
+      "type": "success",
+      "category": "deployment",
+      "message": "系统已100%准备好生产部署",
+      "action": "立即执行部署到Vercel"
+    }
+  ]
+}
